@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	margin: 20px;
+}
+
+form {
+	margin: 20px auto;
+	width: 300px;
+}
+
+input {
+	display: block;
+	margin: 10px auto;
+	padding: 8px;
+	width: 100%;
+}
+
+a {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	background-color: #4CAF50;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+a:hover {
+	background-color: #45a049;
+}
+
+                                              
